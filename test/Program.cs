@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace hw
+namespace hw0930
 {
     internal class Program
     {
